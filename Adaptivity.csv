@@ -1,4 +1,4 @@
-Gender,Age,Education Level,Institution Type,IT Student,Financial Condition,Internet Type,Column11,Self Lms,Device,Adaptivity Level
+Gender,Age,Education Level,Institution Type,IT Student,Financial Condition,Internet Type,Class Duration,Self Lms,Device,Adaptivity Level
 Boy,21-25,University,Non Government,No,Mid,Wifi,3-6,No,Tab,Moderate
 Girl,21-25,University,Non Government,No,Mid,Mobile Data,1-3,Yes,Mobile,Moderate
 Girl,16-20,College,Government,No,Mid,Wifi,1-3,No,Mobile,Moderate
